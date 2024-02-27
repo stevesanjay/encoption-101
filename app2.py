@@ -13,4 +13,4 @@ async def reverse_name(name:str= Query(...)):
         "name":name,
         "reverse_name":rev_name 
         }
-        return data 
+        return data

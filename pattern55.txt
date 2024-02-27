@@ -1,0 +1,42 @@
+dungel / wirtschafthof	STREET_NAME
+
+bracken / kornspeicher	STREET_NAME
+
+flüsterwald / biergarten	STREET_NAME
+
+nebelhain / zollhaus	STREET_NAME
+
+kristallsee / handelskammer	STREET_NAME
+
+schattenmoor / gasthof	STREET_NAME
+
+wolkenfeld / mühle	STREET_NAME
+
+eisgipfel / schmiede	STREET_NAME
+
+donnerklippe / brauerei	STREET_NAME
+
+sternwiese / marktplatz	STREET_NAME
+
+feuerberg / rasthof	STREET_NAME
+
+windhöhle / weinkeller	STREET_NAME
+
+regenwald / fischmarkt	STREET_NAME
+
+sonnental / bäckerei	STREET_NAME
+
+mondlichtbucht / hafenkneipe	STREET_NAME
+
+zauberwald / buchhandlung	STREET_NAME
+
+frostfluss / gerberei	STREET_NAME
+
+drachenschlucht / juwelier	STREET_NAME
+
+blitzwüste / seidenmanufaktur	STREET_NAME
+
+nachtschatteninsel / leuchtturm	STREET_NAME
+
+silbermine / zunftsaal	STREET_NAME
+
