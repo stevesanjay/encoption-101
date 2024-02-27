@@ -1,9 +1,16 @@
 
 
+# import requests
+# url = 'http://0.0.0.0:4890'
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
 app = FastAPI()
 
-@app.get("/reverse/{input}")
-async def reverse_name(input:str):
-    return {"reverse_string":input[::-1]}
+@app.get("/")
+async def reverse_name(name:str= Query(...)):
+        rev_name = name[::-1]
+        data ={
+        "name":name,
+        "reverse_name":rev_name 
+        }
+        return data 
