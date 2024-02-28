@@ -1,0 +1,4 @@
+madurai=7
+chennai=7
+coimbatore=10
+kinathukadavu=13

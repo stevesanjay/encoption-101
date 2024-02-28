@@ -1,0 +1,137 @@
+11 4	HOUSE_NO
+91a	SUITE_NO
+
+12 5	HOUSE_NO
+83a	SUITE_NO
+
+14 6	HOUSE_NO
+72b	SUITE_NO
+
+10 3	HOUSE_NO
+105c	SUITE_NO
+
+15 7	HOUSE_NO
+64d	SUITE_NO
+
+13 4	HOUSE_NO
+89e	SUITE_NO
+
+9 2	HOUSE_NO
+110f	SUITE_NO
+
+16 8	HOUSE_NO
+57g	SUITE_NO
+
+8 1	HOUSE_NO
+123h	SUITE_NO
+
+17 9	HOUSE_NO
+46i	SUITE_NO
+
+11 5	HOUSE_NO
+76j	SUITE_NO
+
+
+dungel / wirtschafthof	STREET_NAME
+
+bracken / kornspeicher	STREET_NAME
+
+flüsterwald / biergarten	STREET_NAME
+
+nebelhain / zollhaus	STREET_NAME
+
+kristallsee / handelskammer	STREET_NAME
+
+schattenmoor / gasthof	STREET_NAME
+
+wolkenfeld / mühle	STREET_NAME
+
+eisgipfel / schmiede	STREET_NAME
+
+donnerklippe / brauerei	STREET_NAME
+
+sternwiese / marktplatz	STREET_NAME
+
+feuerberg / rasthof	STREET_NAME
+
+windhöhle / weinkeller	STREET_NAME
+
+regenwald / fischmarkt	STREET_NAME
+
+sonnental / bäckerei	STREET_NAME
+
+mondlichtbucht / hafenkneipe	STREET_NAME
+
+zauberwald / buchhandlung	STREET_NAME
+
+frostfluss / gerberei	STREET_NAME
+
+drachenschlucht / juwelier	STREET_NAME
+
+blitzwüste / seidenmanufaktur	STREET_NAME
+
+nachtschatteninsel / leuchtturm	STREET_NAME
+
+silbermine / zunftsaal	STREET_NAME
+
+
+453	HOUSE_NO
+304	SUITE_NO
+
+454	HOUSE_NO
+305	SUITE_NO
+
+455	HOUSE_NO
+306	SUITE_NO
+
+456	HOUSE_NO
+307	SUITE_NO
+
+457	HOUSE_NO
+308	SUITE_NO
+
+458	HOUSE_NO
+309	SUITE_NO
+
+459	HOUSE_NO
+310	SUITE_NO
+
+460	HOUSE_NO
+311	SUITE_NO
+
+461	HOUSE_NO
+312	SUITE_NO
+
+462	HOUSE_NO
+313	SUITE_NO
+
+463	HOUSE_NO
+314	SUITE_NO
+
+464	HOUSE_NO
+315	SUITE_NO
+
+465	HOUSE_NO
+316	SUITE_NO
+
+466	HOUSE_NO
+317	SUITE_NO
+
+467	HOUSE_NO
+318	SUITE_NO
+
+468	HOUSE_NO
+319	SUITE_NO
+
+469	HOUSE_NO
+320	SUITE_NO
+
+470	HOUSE_NO
+321	SUITE_NO
+
+471	HOUSE_NO
+322	SUITE_NO
+
+472	HOUSE_NO
+323	SUITE_NO
+
