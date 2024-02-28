@@ -54,28 +54,7 @@ if __name__ == '__main__':
 
 
 
-# file54 = "pattern54.txt"
-# file55 = "pattern55.txt"
-# file56 = "pattern56.txt"
-# output = "files2combine.txt"
-
-# # def pattern():
-
-# with open("pattern54.txt",'r') as f1:
-#         content54 = f1.read()
-# with open("pattern55.txt",'r') as f:
-#         content55 = f.read()
-# with open("pattern56.txt",'r') as f2:
-#         content56 = f2.read()
-
-
-
-# with open("files2combine.txt",'w') as file:
-#         file.write(content54)
-#         file.write("\n")
-#         file.write(content55)
-#         file.write("\n")
-#         file.write(content56)   
+d
 
 
 
