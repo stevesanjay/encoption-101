@@ -7,41 +7,36 @@ source:
     https://stackoverflow.com/questions/370357/python-variable-scope-error
 '''
 
-file1 = "pattern1-input-testing.txt"
-file2 = "pattern2-input-testing.txt"
-file3 = "pattern3-input-testing.txt"
-# output = "files2combine.txt"
+import os
 
-def file_path(file_paths,output_paths):
-    with open(output_paths,'w') as fl1:
-        for o_path in file_paths:
-            with open(o_path,'r') as fl2:
-                fl1.write(fl2.read())
+FOLDER_BASE_PATH = "/Users/tactlabs2/Downloads/patterns_rj/"
 
+def list_files(folder_path):
+    try:
+        files = os.listdir(folder_path)
+        # print(f'files.datatype : {type(files)}')
+        # for path in files:
+        #     print(path)
+    except FileNotFoundError:
+        print("Folder not found.")
+    return files
 
+def combine_all_files(s_file_paths, output_path):
+    with open(output_path,'w') as fl1:
+        for o_path in s_file_paths:
+            source_full_path = f"{FOLDER_BASE_PATH}{o_path}"
+            print(f'source_full_path : {source_full_path}')
+            with open(source_full_path,'r') as fl2:
+                content = fl2.read()
+                # print(f'content : {content}')
+                fl1.write(content)
 
-
-
-# # def combine(file1,file2,file3):
-#     with open(file1,'r') as f1:
-#         content1 = f1.read()
-#     with open(file2,'r') as f:
-#         content2 = f.read()
-#     with open(file3,'r') as f2:
-#         content3 = f2.read()
-
-# def c_write():
-    # with open("files2combine.txt",'w') as file:
-    #     file.write(content1)
-    #     file.write("\n")
-    #     file.write(content2)
-    #     file.write("\n")
-    #     file.write(content3) 
+    print(f'All files added')
 
 def startpy():
-    file_paths = [file1,file2,file3]
-    output_paths = 'files2combine.txt'
-    file_path(file_paths,output_paths)
+    source_file_paths = list_files(FOLDER_BASE_PATH)
+    output_path = 'final.txt'
+    combine_all_files(source_file_paths, output_path)
     # print("Tact101")
 
 
@@ -52,21 +47,3 @@ def startpy():
 
 if __name__ == '__main__':
     startpy()
-
-
-
-
-
-
-# # def pattern():
-
-
-
-
-
-with open("files2combine.txt",'w') as file:
-        file.write(content54)
-        file.write("\n")
-        file.write(content55)
-        file.write("\n")
-        file.write(content56)   

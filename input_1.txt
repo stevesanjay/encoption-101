@@ -1,0 +1,62 @@
+London
+New York City
+Tokyo
+Paris
+Beijing
+Los Angeles
+Moscow
+Cairo
+Mumbai
+Rio de Janeiro
+Sydney
+Istanbul
+Buenos Aires
+Mexico City
+Seoul
+Delhi
+Shanghai
+Karachi
+Lagos
+Jakarta
+Dhaka
+Lima
+Bangkok
+Kolkata
+Manila
+Tehran
+Kinshasa
+Bogotá
+London
+Chennai
+Johannesburg
+Baghdad
+Riyadh
+Singapore
+Santiago
+Toronto
+Washington D.C.
+Berlin
+Madrid
+Rome
+Abu Dhabi
+Vienna
+Brussels
+Amsterdam
+Prague
+Budapest
+Warsaw
+Athens
+Oslo
+Stockholm
+Helsinki
+Copenhagen
+Dublin
+Lisbon
+Bucharest
+Sofia
+Kiev
+Moscow
+Vienna
+Zurich
+Melbourne
+Vancouver
