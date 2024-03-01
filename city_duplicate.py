@@ -26,8 +26,8 @@ source:
 
 def city_name():
     with open("city1.txt", 'r') as input_file:
-        cities = input_file.readlines() 
-        unique_cities = set(cities) 
+        cities = input_file.readlines()  # Split the string into a list of words
+        unique_cities = set(cities)  # Convert the list to a set to remove duplicates
     with open("city_result_duplicate.txt", 'w') as output_file:
         for city in unique_cities:
             output_file.write(city)
@@ -44,6 +44,7 @@ def city_name():
 def startpy():
     city_name()
     
+    # test()
     
 
 if __name__ == '__main__':
